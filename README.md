@@ -5,6 +5,7 @@
 - React Redux
 - [React FirebaseUI][FirebaseUI]
 - [Material-UI v1-Beta][MaterialUI] [(mui-org)][mui-org]
+- [Demo](https://create-react-firebase.netlify.com/) Not much to see yet. 😁
 
 This boilerplate assumes an understanding of using and configuring a project in Firebase and Firestore and setting up the auth.
 Although it is assumed, it can help you learn the setup configuration in firebase by reading the [docs][firebaseuidocs].
